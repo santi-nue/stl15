@@ -1,0 +1,9 @@
+name: dask-sql-binder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - dask-labextension
+  - dask-sql
+  - jupyterlab
+  - nodejs
