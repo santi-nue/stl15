@@ -29,7 +29,7 @@
                             "type": "tab-area",
                             "currentIndex": 0,
                             "widgets": [
-                                "notebook:00_Introduction.ipynb"
+                                "notebook:Introduction.ipynb"
                             ]
                         },
                         {
@@ -59,7 +59,7 @@
                     ]
                 },
                 "mode": "multiple-document",
-                "current": "notebook:00_Introduction.ipynb"
+                "current": "notebook:Introduction.ipynb"
             },
             "left": {
                 "collapsed": false,
