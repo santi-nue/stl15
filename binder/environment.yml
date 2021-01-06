@@ -7,3 +7,8 @@ dependencies:
   - dask-sql
   - jupyterlab
   - nodejs
+  - matplotlib
+  - python-graphviz
+  - graphviz
+  - dask-ml
+  - scikit-learn<0.24.0
