@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.8
   - dask-labextension
-  - dask-sql
+  - dask-sql=0.3.1
   - jupyterlab
   - nodejs
   - matplotlib
