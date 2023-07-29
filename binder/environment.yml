@@ -3,12 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - dask-labextension
-  - dask-sql=0.3.1
   - jupyterlab
   - nodejs
-  - matplotlib
-  - python-graphviz
-  - graphviz
-  - dask-ml
-  - scikit-learn<0.24.0
+  - pyqt
